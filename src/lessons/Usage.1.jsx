@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import Switch from './Switch';
+import Switch from '../Switch';
 
 class Toggle extends Component {
   state = { on: true };

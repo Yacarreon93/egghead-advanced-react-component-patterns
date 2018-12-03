@@ -1,6 +1,6 @@
 import React, { Component} from "react";
 
-import Usage from './Usage';
+import Usage from './lessons/Usage';
 
 class App extends Component {
   render() {
